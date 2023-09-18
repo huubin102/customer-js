@@ -1,0 +1,52 @@
+{
+  "customers": [
+    {
+      "firstname": "bin34zzzz",
+      "lastname": "ga1",
+      "username": "vua tìm bug",
+      "email": "hhee@gmail.com",
+      "address": "aaaa111",
+      "id": 1
+    },
+    {
+      "firstname": "1",
+      "lastname": "1",
+      "username": "1",
+      "email": "user3@gmail.com",
+      "address": "222 do xuan hop",
+      "id": 2
+    },
+    {
+      "firstname": "13w",
+      "lastname": "133",
+      "username": "133",
+      "email": "user3@gmail.com",
+      "address": "222 do xuan hop",
+      "id": 3
+    },
+    {
+      "firstname": "33",
+      "lastname": "333",
+      "username": "33",
+      "email": "botvt79@gmail.com",
+      "address": "3",
+      "id": 4
+    },
+    {
+      "firstname": "qqqqqq",
+      "lastname": "qqq",
+      "username": "qq",
+      "email": "admin@gmail.com",
+      "address": "aa",
+      "id": 5
+    },
+    {
+      "firstname": "thinh",
+      "lastname": "ga",
+      "username": "bin1208",
+      "email": "user3@gmail.com",
+      "address": "627 do xuan hop",
+      "id": 6
+    }
+  ]
+}
